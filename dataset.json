@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 40% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 40% Active Restaurant Review Whales in Delaware, US",
+  "export_job_id": "a3f1c6fb-c271-4ed3-a8a6-f85d6115de14",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 851200,
+  "location_name": "Delaware",
+  "location_type": "state",
+  "repo_name": "top-40-active-restaurant-review-whales-in-delaware-us-sample-851200",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/851200/beamstation_851200_restaurants-us-de_SAMPLE_DIST.csv",
+  "sample_pct": 13.75,
+  "sample_records": 102,
+  "sample_sha256": "a9eaed8a1ddb54ea328c87de2c45d19c9e2b3843b20df44405e3057906ac2df0",
+  "sample_size_bytes": 418429,
+  "total_records": 742,
+  "updated_at": "2026-04-01T01:10:47.711330+00:00"
+}
