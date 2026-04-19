@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a3f1c6fb-c271-4ed3-a8a6-f85d6115de14",
+  "export_job_id": "dbae792e-f240-45f8-b158-9cc9cf3aa057",
   "id_short": 851200,
-  "published_at": "2026-04-15T07:46:39Z",
+  "published_at": "2026-04-19T07:15:55Z",
   "repo_name": "top-40-active-restaurant-review-whales-in-delaware-us-sample-851200",
   "sample_asset_name": "beamstation_851200_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/851200/beamstation_851200_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_records": 102,
   "sample_sha256": "a9eaed8a1ddb54ea328c87de2c45d19c9e2b3843b20df44405e3057906ac2df0",
   "sample_size_bytes": 418429,
-  "total_records": 742
+  "total_records": 1028
 }
