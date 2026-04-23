@@ -1,6 +1,6 @@
 # Top 40% Active Restaurant Review Whales in Delaware, US
 
-> Free BeamStation sample export with 102 rows and masked direct-contact fields.
+> Free BeamStation sample export with 87 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `851200` |
 | Location | Delaware |
 | Category | Restaurants |
-| Full dataset size | 1,028 records |
-| Free sample size | 102 records (9.92%) |
-| Last export | 2026-04-15T03:08:43.671477+00:00 |
+| Full dataset size | 875 records |
+| Free sample size | 87 records (9.94%) |
+| Last export | 2026-04-22T08:25:26.504291+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-delaware-us-sample-851200/releases/download/sample-latest/beamstation_851200_restaurants-us-de_SAMPLE_DIST.csv) |
 
 ## What is in this sample
